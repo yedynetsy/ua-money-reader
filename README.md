@@ -2,7 +2,7 @@
 
 A social initiative Android application designed to assist visually impaired individuals in recognizing Ukrainian currency (UAH) using their smartphone camera and audio feedback. 
 
-This project was developed independently during the Autumn semester at the Data Science Club.
+This project was developed during the Autumn semester at the Data Science Club.
 
 ## 🎯 The Problem & Solution
 According to the WHO, millions of people have visual impairments. Recognizing money, especially coins and modern banknotes with similar tactile features, is a daily challenge. **UA Money Reader** solves this by leveraging a custom-trained Computer Vision model to detect currency in the frame, calculate the total sum, and announce it via Android's Text-To-Speech (TTS) system.
